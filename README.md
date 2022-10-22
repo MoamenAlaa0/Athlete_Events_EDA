@@ -1,1 +1,1 @@
-## :weight_lifting: Exploratory Data Analysis for Athlete Events 
+## Exploratory Data Analysis for Athlete Events :weight_lifting:
