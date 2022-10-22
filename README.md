@@ -1,8 +1,7 @@
 ## Exploratory Data Analysis for Athlete Events :weight_lifting:
 This project is divided into two parts: **Data Cleaning** and **Exploratory Data Analysis** :chart_with_upwards_trend:. The aim of doing this project is to show my skills in clean and analyze data. I started this project at `12-10-2022` and ended at `22-10-2022`
 
-1. Cleaning data using advanced techniques: missingno, SimpleImputer and LinearRegression.
-2. Exploratoring the data and doing Descriptive analysis with deep into it.
+Exploratoring, analysing and representing ~250k rows. Cleaning data using advanced techniques: missingno, SimpleImputer and LinearRegression.
 
 ### :card_index_dividers:	About Data:
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. 
